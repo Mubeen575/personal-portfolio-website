@@ -1,10 +1,11 @@
 # 🌐 Personal Portfolio Website
 
 A modern and responsive portfolio website developed using HTML, CSS, and JavaScript to showcase my skills, projects, certifications, education, and achievements.
-
 ## 🚀 Live Demo
 
-[Click Here to View Portfolio](https://mubeen575.github.io/personal-portfolio-website/)
+Visit the live project here:
+
+https://mubeen575.github.io/personal-portfolio-website/
 
 ## ✨ Features
 
