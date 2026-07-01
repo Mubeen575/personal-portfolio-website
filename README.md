@@ -4,8 +4,7 @@ A modern and responsive portfolio website developed using HTML, CSS, and JavaScr
 ## 🚀 Live Demo
 
 Visit the live project here:
-
-https://mubeen575.github.io/personal-portfolio-website/
+(https://mubeen575.github.io/personal-portfolio-website/)
 
 ## ✨ Features
 
